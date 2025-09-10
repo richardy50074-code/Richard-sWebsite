@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-     ![images](https://github.com/user-attachments/assets/82c234b4-b178-4326-92f7-0516b4b067fb)
+    
 <body>
     <h1>About a basketball</h1>
     <div style="border: 3px solid; margin: 25px; color: blue;">
